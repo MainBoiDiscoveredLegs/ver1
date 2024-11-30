@@ -82,45 +82,45 @@ var s1 = "no", s2 = "no", s3 = "no";
 function preload(){
 
     //images
-    starIMG = loadImage("Images/stars.jpg");
-    monkeyBodyIMG = loadImage("Images/monkeyFullBody.png");
+    starIMG = loadImage("stars.jpg");
+    monkeyBodyIMG = loadImage("monkeyFullBody.png");
 
-    marsIMG = loadImage("Images/Mars.png");
-    earthIMG = loadImage("Images/Earth.png");
-    rocketIMG = loadImage("Images/rocket.png");
-    rocketShipIMG = loadImage("Images/roketShip.png");
+    marsIMG = loadImage("Mars.png");
+    earthIMG = loadImage("Earth.png");
+    rocketIMG = loadImage("rocket.png");
+    rocketShipIMG = loadImage("roketShip.png");
   
-    cap1IMG = loadImage("Images/blueCap.png");
-    shooter1IMG = loadImage("Images/shooter.png");
+    cap1IMG = loadImage("blueCap.png");
+    shooter1IMG = loadImage("shooter.png");
   
-    redBoxIMG = loadImage("Images/redBox.png");
-    blueBoxIMG = loadImage("Images/blueBox.png");
+    redBoxIMG = loadImage("redBox.png");
+    blueBoxIMG = loadImage("blueBox.png");
     
 
-    blueCapIMG = loadImage("Images/blueCap.png");
-    redCapIMG = loadImage("Images/redCap.png");
+    blueCapIMG = loadImage("blueCap.png");
+    redCapIMG = loadImage("redCap.png");
 
-    monkeyR = loadImage("Images/MonkeyS.png");
-    monkeyL = loadImage("Images/Monkey.png");
+    monkeyR = loadImage("MonkeyS.png");
+    monkeyL = loadImage("Monkey.png");
 
-    capSellerR = loadImage("Images/capSeller.png.png");
-    capSellerL = loadImage("Images/CapSellerS.png");
+    capSellerR = loadImage("capSeller.png.png");
+    capSellerL = loadImage("CapSellerS.png");
 
-    llamaIMG = loadImage("Images/llama.png");
-    astroidIMG = loadImage("Images/astroid.png");
-    bulletIMG = loadImage("Images/bullet.png");
+    llamaIMG = loadImage("llama.png");
+    astroidIMG = loadImage("astroid.png");
+    bulletIMG = loadImage("bullet.png");
 
-    alienIMG = loadImage("Images/alien.png");
+    alienIMG = loadImage("alien.png");
 
     //sounds
-    footStep = loadSound("Sounds/footStep.mp3");
-    bgMusic = loadSound("Sounds/bgMoosic.mp3");
-    money = loadSound("Sounds/money.mp3");
-    explosion = loadSound("Sounds/explostion.mp3");
-    click = loadSound("Sounds/click.mp3");
-    drop = loadSound("Sounds/drop.mp3");
-    box = loadSound("Sounds/inBox.mp3");
-    WIN = loadSound("Sounds/WIN.mp3");
+    footStep = loadSound("footStep.mp3");
+    bgMusic = loadSound("bgMoosic.mp3");
+    money = loadSound("money.mp3");
+    explosion = loadSound("explostion.mp3");
+    click = loadSound("click.mp3");
+    drop = loadSound("drop.mp3");
+    box = loadSound("inBox.mp3");
+    WIN = loadSound("WIN.mp3");
 
 }
 
